@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "14764467665",
+    "project_id": "b-pay-a53d8",
+    "storage_bucket": "b-pay-a53d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14764467665:android:2c3dd1d0e5a3f1f17fecf0",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.onlinehappylifeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14764467665-ebhvs049olmtqcircr8tjmqjdfdspf9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssoftwares.onlinehappylifeadmin",
+            "certificate_hash": "f53bfae229f6061e29bdbdbfab0cb7bf712df607"
+          }
+        },
+        {
+          "client_id": "14764467665-hmcce8j9fb4h4ndmmjn43bq80g55mfn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1y01CIz04RPMmyqmbq60DiA_Q508ISQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14764467665-hmcce8j9fb4h4ndmmjn43bq80g55mfn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14764467665:android:08eafd8deaf1a9f97fecf0",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.onlinehappyliferider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14764467665-kqk5a5dkiirj242n5g63cgmjr05h82tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssoftwares.onlinehappyliferider",
+            "certificate_hash": "f53bfae229f6061e29bdbdbfab0cb7bf712df607"
+          }
+        },
+        {
+          "client_id": "14764467665-hmcce8j9fb4h4ndmmjn43bq80g55mfn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1y01CIz04RPMmyqmbq60DiA_Q508ISQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14764467665-hmcce8j9fb4h4ndmmjn43bq80g55mfn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14764467665:android:e8a56b0cfa968dc47fecf0",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.onlinehappylifevendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14764467665-2v2e07urqe7bh0r1hf1tapeeusetlsvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssoftwares.onlinehappylifevendor",
+            "certificate_hash": "f53bfae229f6061e29bdbdbfab0cb7bf712df607"
+          }
+        },
+        {
+          "client_id": "14764467665-hmcce8j9fb4h4ndmmjn43bq80g55mfn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1y01CIz04RPMmyqmbq60DiA_Q508ISQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14764467665-hmcce8j9fb4h4ndmmjn43bq80g55mfn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
